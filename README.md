@@ -46,11 +46,10 @@ All to support smarter, data-driven decision-making.
 
 Here's a snapshot of the HR Dashboard for a quick visual overview:
 
-![HR Dashboard Preview](HR20%Dashboard.png)
+![HR Dashboard Preview](HR%20Dashboard.png)
 
 
 
----
 
 ---
 
