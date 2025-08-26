@@ -40,6 +40,17 @@ This dashboard helps HR teams better understand:
 - Employment trends  
 
 All to support smarter, data-driven decision-making.
+---
+
+## 🖼️ Dashboard Preview
+
+Here's a snapshot of the HR Dashboard for a quick visual overview:
+
+![HR Dashboard Preview](HR20%Dashboard.png)
+
+
+
+---
 
 ---
 
